@@ -39,6 +39,15 @@ I like building software that is not only technically correct, but also usable i
 
 ---
 
+## 📊 GitHub activity
+
+<p align="center">
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
+</p>
+
+---
+
 ## 🚀 Some featured work
 
 ### [`gstklvplugin`](https://github.com/mkassimi98/gstklvplugin)
@@ -76,8 +85,6 @@ Professional Linux network diagnostics, discovery and monitoring tools for engin
 <p align="center">
   <strong>UAV systems · Embedded Linux · Real-time video · Robotics middleware · Engineering UIs · Communications · Edge AI</strong>
 </p>
-
-<br>
 
 <h3 align="center">Languages & systems programming</h3>
 
@@ -173,44 +180,11 @@ Professional Linux network diagnostics, discovery and monitoring tools for engin
   </sub>
 </p>
 
-
-
----
-
-## 🧩 Engineering principles
-
-* **Field-first mindset:** software should survive integration labs, flight tests and real operational constraints.
-* **Clear interfaces:** systems become maintainable when data flows, APIs and responsibilities are explicit.
-* **Reproducibility:** build scripts, containers and documented workflows reduce integration pain.
-* **Observability:** logs, diagnostics and network visibility are part of the system, not an afterthought.
-* **Standards-aware development:** especially for video, metadata, communications and aerospace workflows.
-* **Practical documentation:** READMEs should help engineers understand, build, run and validate the project quickly.
-
----
-
-## 📊 GitHub activity
-
-<p align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
-  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
-</p>
-
----
-
-## 📌 Current interests
-
-* Real-time video and metadata pipelines for UAV and aerospace systems
-* ROS 2 ↔ GStreamer interoperability
-* KLV/MISB/STANAG-oriented video workflows
-* Embedded Linux and reproducible engineering environments
-* 5G/NTN, RF and BVLOS communications
-* Edge AI integration on constrained platforms
-
 ---
 
 ## 🤝 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mouhsine-kassimi-farhaoui-983738163">
     <img src="https://img.shields.io/badge/LinkedIn-Mouhsine%20Kassimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -224,4 +198,3 @@ Professional Linux network diagnostics, discovery and monitoring tools for engin
 <p align="center">
   <em>Building aerospace software that connects sensors, video, communications and field operations.</em>
 </p>
-
