@@ -191,8 +191,8 @@ Professional Linux network diagnostics, discovery and monitoring tools for engin
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mkassimi98&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkassimi98&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ---
